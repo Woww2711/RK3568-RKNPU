@@ -30,6 +30,7 @@ This project involves development on a host PC and deployment to a target RK3568
         conda activate rknn_yolo
         ```
 *   **RKNN Toolkit 2:**
+    *   **Source:** https://github.com/airockchip/rknn-toolkit2
     *   **Version:** v2.3.2 was used during debugging. Newer versions might exist.
     *   **Download:** Typically obtained from Rockchip's official sources (Developer Wiki, SDK releases, or GitHub). Direct public links can change, refer to official Rockchip resources.
     *   **Installation (within activated Python env):**
